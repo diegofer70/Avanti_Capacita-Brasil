@@ -36,22 +36,16 @@ nav ul li a:hover {
     border-radius: 4px;
 }
 
-label {
-    font-size: 16px;
-    color: #333;
-    font-weight: bold;
-    display: block;
-    margin-bottom: 8px;
-}
+/* Form */
 
-input {
-    padding: 10px;
+input[type="text"] {
+    width: 300px;
+    padding: 12px;
+    margin: 10px auto;
     font-size: 16px;
     border: 1px solid #ccc;
     border-radius: 4px;
-    box-sizing: border-box;
-    margin-bottom: 15px;
-}
+  }
 
 button {
     padding: 10px;
